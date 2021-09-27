@@ -1,0 +1,1 @@
+qr0.jpg -> WIFI:S:ovencamera;T:WPA;P:foobar123;H:true;;
