@@ -22,10 +22,10 @@ MaxSupportedQRVersion = (MaxGridSize - 17) / 4;
 
 ## OpenCV demo
 Run `opencv_zxing` to detect QR codes using a webcam. Position the code inside the green box and observe the resulting black matrix:
-![opencv_demo](https://github.com/camposm/tinyzxing/blob/200ecd7fdef6e786807df9616dcb41fd1b7459d8/docs/opencv_demo.png)
+![opencv_demo](https://github.com/camposm/tinyzxing/blob/4c55a38df798c4f3a8a2eabed96d36fd9ef646bd/docs/opencv_demo.png)
 
 ## ESP32 demo
 This is a preview of the ESP32 demo. For more details and actual usage check my other repo [OvenCamera](https://github.com/camposm/ovencamera).
 
-![esp32_demo2](https://github.com/camposm/tinyzxing/blob/200ecd7fdef6e786807df9616dcb41fd1b7459d8/docs/esp32_demo2.png)
+![esp32_demo2](https://github.com/camposm/tinyzxing/blob/4c55a38df798c4f3a8a2eabed96d36fd9ef646bd/docs/esp32_demo2.png)
 
